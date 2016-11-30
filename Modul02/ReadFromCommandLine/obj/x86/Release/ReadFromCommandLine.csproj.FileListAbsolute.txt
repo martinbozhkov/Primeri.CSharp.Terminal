@@ -1,0 +1,9 @@
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\ReadFromCommandLine.exe
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\mscorlib.dll
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\normidna.nlp
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\normnfc.nlp
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\normnfd.nlp
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\normnfkc.nlp
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\bin\Release\normnfkd.nlp
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\obj\x86\Release\ReadFromCommandLine.csprojResolveAssemblyReference.cache
+C:\aula\primeri.csharp.terminal\Modul02\ReadFromCommandLine\obj\x86\Release\ReadFromCommandLine.exe
