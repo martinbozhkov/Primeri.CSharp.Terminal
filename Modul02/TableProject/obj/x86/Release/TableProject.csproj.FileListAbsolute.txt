@@ -1,0 +1,9 @@
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\obj\x86\Release\TableProject.csprojResolveAssemblyReference.cache
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\bin\Release\TableProject.exe
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\bin\Release\mscorlib.dll
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\bin\Release\normidna.nlp
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\bin\Release\normnfc.nlp
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\bin\Release\normnfd.nlp
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\bin\Release\normnfkc.nlp
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\bin\Release\normnfkd.nlp
+C:\aula\primeri.csharp.terminal\Modul02\TableProject\obj\x86\Release\TableProject.exe
