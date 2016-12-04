@@ -4,6 +4,9 @@ namespace TableProject
 {
 	class MainClass
 	{
+
+		enum ti {ime = 0, familia, godini };
+
 		public static void Main(string[] args)
 		{
 			//Едномерни масиви. Функции
@@ -31,16 +34,16 @@ namespace TableProject
 			string[,] table = new string[2, 3];
 
 			//Въвеждане на първи ред
-			table[0, 0] = "Мартин"; table[0, 1] = "Симеонов"; table[0, 2] = "31";
-
+			table[0, (int) ti.ime] = "Мартин"; table[0, (int) ti.familia] = "Симеонов"; table[0, (int) ti.godini] = "31";
+	
 			//Въвеждане на втори ред
-			table[1, 0] = "Симеон"; table[1, 1] = "Мартинов"; table[1, 2] = "41";
+			table[1, (int) ti.ime] = "Симеон"; table[1, (int) ti.familia] = "Мартинов"; table[1, (int) ti.godini] = "41";
 
 			//Печат
 			Console.Write("Кой ред искате да видите: ");
 			int _index = Convert.ToInt32(Console.ReadLine()) - 1;
 
-			Console.WriteLine("\n" + (table[_index, 0])[0] + ". " + table[_index, 1] + ", " + table[_index, 2] + "г.\n\n");
+			Console.WriteLine("\n" + (table[_index, (int) ti.ime])[0] + ". " + table[_index, (int) ti.familia] + ", " + table[_index, (int) ti.godini] + "г.\n\n");
 		}
 	}
 }

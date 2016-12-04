@@ -8,7 +8,7 @@
     <Files>
       <File FileName="Modul02\Program.cs" Line="17" Column="11" />
       <File FileName="ReadFromCommandLine\Program.cs" Line="11" Column="21" />
-      <File FileName="TableProject\Program.cs" Line="26" Column="4" />
+      <File FileName="TableProject\Program.cs" Line="42" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ReadFromCommandLine PreferredExecutionTarget="MonoDevelop.Default" />
