@@ -1,0 +1,10 @@
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\BoolExplore.exe
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\BoolExplore.pdb
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\mscorlib.dll
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\normidna.nlp
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\normnfc.nlp
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\normnfd.nlp
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\normnfkc.nlp
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\normnfkd.nlp
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.exe
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.pdb
