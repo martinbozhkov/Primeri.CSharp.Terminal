@@ -8,3 +8,4 @@ C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\normnfkc.nlp
 C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\normnfkd.nlp
 C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.exe
 C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.pdb
+C:\aula\primeri.csharp.terminal\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.csprojResolveAssemblyReference.cache
