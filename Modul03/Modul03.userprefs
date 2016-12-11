@@ -1,14 +1,16 @@
-﻿<Properties StartupConfiguration="{787745A3-C7B2-4122-8A1D-75BB15B85093}|Default">
+﻿<Properties StartupConfiguration="{D6EF85A9-C4AC-45DE-B29D-8CC8D48B71C4}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.BoolExplore PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BoolExplore\Program.cs">
+  <MonoDevelop.Ide.ItemProperties.BoolExplore02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoolExplore02\Program.cs">
     <Files>
       <File FileName="Modul03\Program.cs" Line="11" Column="41" />
-      <File FileName="BoolExplore\Program.cs" Line="9" Column="4" />
+      <File FileName="BoolExplore\Program.cs" Line="23" Column="1" />
+      <File FileName="BoolExplore02\Program.cs" Line="24" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Modul03 PreferredExecutionTarget="MonoDevelop.Default" />
