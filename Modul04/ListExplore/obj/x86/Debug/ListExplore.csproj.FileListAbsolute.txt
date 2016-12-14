@@ -1,0 +1,11 @@
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\ListExplore.exe
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\ListExplore.pdb
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\mscorlib.dll
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\normidna.nlp
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\normnfc.nlp
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\normnfd.nlp
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\normnfkc.nlp
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\bin\Debug\normnfkd.nlp
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\obj\x86\Debug\ListExplore.exe
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\obj\x86\Debug\ListExplore.pdb
+C:\aula\primeri.csharp.terminal\Modul04\ListExplore\obj\x86\Debug\ListExplore.csprojResolveAssemblyReference.cache
