@@ -18,6 +18,31 @@ namespace Modul05
 
 				if (usercommand.Contains("cmd02")) Console.WriteLine ("\nРезултатът от " + usercommand [6] + "^3: " + cmd02(usercommand) + "\n");
 
+				if (usercommand.Contains("cmd03"))
+				{
+					double _a = 0;
+					if (cmd03(usercommand, out _a))
+					{
+						Console.WriteLine("a * a = " + _a.ToString());
+					} else {
+						Console.WriteLine("Командата не е въведена коректно");
+					}
+				}
+
+				if (usercommand.Contains("cmd04"))
+				{
+					double _t = 5; double _c = -2;
+
+					if (cmd04(ref _t))
+					{
+						Console.WriteLine(_t);
+					}
+					if (cmd04(ref _c))
+					{
+						Console.WriteLine(_t);
+					}
+				}
+
 			} while (usercommand != "exit");
 		}
 
@@ -27,7 +52,7 @@ namespace Modul05
 			{
 				int _temp = 0;
 
-				if (int.TryParse(_input.Split(' ')[1] , out _temp))
+				if (int.TryParse(_input.Split(' ')[1], out _temp))
 				{
 					Console.WriteLine("\nРезултата от " + _temp.ToString() + "^2: " + (_temp * _temp).ToString() + "\n");
 				}
@@ -45,5 +70,32 @@ namespace Modul05
 			}
 			return _temp;
 		}
+		public static bool cmd03(string _input, out double _i)  //cmd03 45 		---> 45*45 = 2025 //cmd03 - връща р-т true, когато командата е изпълнена успешно с данните на потребителя и false, когато са въведени некоректни данни от потребителя.
+		{														
+			try
+			{
+				string _p = _input.Split(' ')[1];
+				double __p = 0;
+
+				if (double.TryParse(_p, out __p))
+				{
+					_i = __p * __p;
+					return true;
+				}
+
+			} catch {
+			}
+
+			_i = 0;
+			return false;
+		}
+
+		public static bool cmd04(ref double _i) //cmd04 работи само с положителни числа, а за отрицателните няма да прави нищо.
+		{
+			double _temp = _i;
+			_i = _i * _i;
+			return (_temp > 0);
+			
+		}
 	}
-}
+} 
