@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul05", "Modul05\Modul05.csproj", "{5D05D73C-7260-4B97-9397-E61598210A02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExplorer", "ClassExplorer\ClassExplorer.csproj", "{1F1BE1DF-0250-4123-8B8C-0D20078CBFF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{5D05D73C-7260-4B97-9397-E61598210A02}.Debug|x86.Build.0 = Debug|x86
 		{5D05D73C-7260-4B97-9397-E61598210A02}.Release|x86.ActiveCfg = Release|x86
 		{5D05D73C-7260-4B97-9397-E61598210A02}.Release|x86.Build.0 = Release|x86
+		{1F1BE1DF-0250-4123-8B8C-0D20078CBFF0}.Debug|x86.ActiveCfg = Debug|x86
+		{1F1BE1DF-0250-4123-8B8C-0D20078CBFF0}.Debug|x86.Build.0 = Debug|x86
+		{1F1BE1DF-0250-4123-8B8C-0D20078CBFF0}.Release|x86.ActiveCfg = Release|x86
+		{1F1BE1DF-0250-4123-8B8C-0D20078CBFF0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
